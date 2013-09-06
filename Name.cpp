@@ -1,5 +1,5 @@
 ﻿http://www.astroland.ru/name/test/name_m.htm
-
+//php
 function calc() {
 first = document.loveform.name1.value.toUpperCase();
 firstlength = document.loveform.name1.value.length;

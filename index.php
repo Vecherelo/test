@@ -18,10 +18,13 @@
 echo("Как дела? да" );
 ?>
 
+<<<<<<< HEAD
 echo("Как дела? да" );
 ?>
 
 
+=======
+>>>>>>> parent of 07e5e26... add echo 2 times
 </body>
 
 </html>
